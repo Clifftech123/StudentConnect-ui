@@ -1,4 +1,7 @@
 import Navbar from "./components/Navbar"
+import logo from ".//assets//resized_logo_UQww2soKuUsjaOGNB38o.png";
+import Hero from "./components/Hero";
+
 
 
 function App() {
@@ -7,7 +10,9 @@ function App() {
   return (
     <>
 
-    <Navbar logoUrl="https://example.com/logo.png" />
+  <Navbar logoUrl={logo} />
+   <Hero />
+
     </>
   )
 }
