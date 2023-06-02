@@ -1,44 +1,4 @@
-# Student Connect - Frontend
 
-This is the frontend repository for the Student Connect project. Student Connect is a web application designed to connect students and facilitate knowledge sharing among them. The goal of this project is to create a platform where students can collaborate, ask questions, and help each other in their educational journey.
-
-## Features
-
-- User Registration: Students can create an account on the platform to gain access to its features.
-- User Authentication: Registered users can log in securely to their accounts.
-- User Profile: Each user has a profile page where they can manage their personal information and customize their profile.
-- Posts: Users can create posts to share their thoughts, ideas, and educational resources with the community.
-- Comments: Users can comment on posts, providing feedback, additional information, or engaging in discussions.
-- Post Interactions: Users can like, bookmark, and share posts to engage with the content and spread knowledge.
-- Search: The platform includes a search functionality to help users find relevant posts and topics.
-- Notifications: Users receive notifications for activities such as new comments, likes, or mentions.
-- User Connections: Students can connect with each other, follow other users, and build their network.
-
-## Tech Stack
-
-The frontend of Student Connect is built using the following technologies:
-
-- **React**: A JavaScript library for building user interfaces.
-- **TypeScript**: A typed superset of JavaScript that adds static typing to the language.
-- **Redux**: A state management library for managing application state.
-- **React Router**: A routing library for handling navigation and routing within the application.
-- **Axios**: A library for making HTTP requests to the backend API.
-- **Tailwind CSS**: A CSS-in-JS library for styling React components.
-
-## Folder Structure
-
-Here is an overview of the folder structure of the frontend codebase:
-GitHub Copilot: Yes, there are several things you can do to make the README file look nicer. Here are a few suggestions:
-
-1. Add some headings to break up the text and make it easier to read.
-2. Use bullet points to list the features of the application.
-3. Add some screenshots or images to show what the application looks like.
-4. Use code blocks to highlight code snippets or configuration files.
-5. Add a table of contents to make it easier to navigate the document.
-
-Here is an example of how you could update the README file:
-
-```markdown
 # Student Connect - Frontend
 
 This is the frontend repository for the Student Connect project. Student Connect is a web application designed to connect students and facilitate knowledge sharing among them. The goal of this project is to create a platform where students can collaborate, ask questions, and help each other in their educational journey.
@@ -126,5 +86,5 @@ If you have any questions or feedback, please contact me on LinkedIn or Twitter.
 ## Authors
 
 - [@Clifftech123](https://github.com/Clifftech123)
-```
+
 
