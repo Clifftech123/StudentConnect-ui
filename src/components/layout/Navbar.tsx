@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { BsSearch } from "react-icons/bs";
-import SideBar from "./SideBar";
+
 
 interface NavProps {
   logoUrl: string;
@@ -281,9 +281,6 @@ const Navbar: React.FC<NavProps> = ({ logoUrl }) => {
             </div>
           </div>
         </section>
-
-        {/* SIDE BAR  */}
-        <SideBar />
       </nav>
     </>
   );
